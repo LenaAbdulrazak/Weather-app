@@ -1,0 +1,1 @@
+String openWheatherApiKey='8785c4f0365a64f3dd0c29588fd1b5d8';
